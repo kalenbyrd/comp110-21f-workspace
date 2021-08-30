@@ -1,7 +1,7 @@
 # TODO: Write docstring here
-name: str = input("What is your name? ")
+"""This program asks the user for their name and then repeats it to them."""
 # TODO: Initialize __author__ variable here
-print("You entered: ")
-
+__author__ = "730481483"
 # TODO: Implement your program logic here
-print(name)
+name: str = input("What is your name? ")
+print("You entered: " + name)

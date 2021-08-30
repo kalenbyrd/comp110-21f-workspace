@@ -1,5 +1,5 @@
 """This program requires the user to input numbers and it checks those numbers through a variety of comparison operators."""
-__author__: str = "730481480"
+__author__ = "730481483"
 left: str = input("Left-hand side ")
 right: str = input("Right-hand side ")
 

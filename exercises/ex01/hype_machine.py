@@ -5,3 +5,6 @@ __author__ = "730481483"
 # TODO: Implement your program logic here
 name: str = input("What is your name? ")
 print("You entered: " + name)
+print("You are the man, " + name + " you can do it!")
+print(name + " you might just be the best ever.")
+print("Have a good day " + name + "!")
